@@ -64,6 +64,7 @@ class Board extends React.Component {
     }
 }
   
+// This a comment added to display changes in a new branch. Check that this branch and comment are available after migration
 class Game extends React.Component {
     render() {
         return (
